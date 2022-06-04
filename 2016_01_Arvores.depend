@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1462890818 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores\arvorebinaria.c
+	<stdlib.h>
+	"ArvoreBinaria.h"
+
+1462890660 c:\_meus\disciplinas\edpo_ec\2016_01_arvores\arvorebinaria.h
+
+1462890889 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores\int.c
+	<stdio.h>
+
+1462890864 source:c:\_meus\disciplinas\edpo_ec\2016_01_arvores\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreBinaria.h"
+	"Int.h"
+
+1462890854 c:\_meus\disciplinas\edpo_ec\2016_01_arvores\int.h
+
